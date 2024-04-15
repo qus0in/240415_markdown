@@ -96,7 +96,7 @@ abstract class Main {
 [텍스트](주소)
 [네이버](https://naver.com)
 
-![이미지 설명](https://cdn.pixabay.com/photo/2021/02/08/19/55/cocker-5996316_1280.jpg)
+![이미지 설명](https://images.unsplash.com/photo-1711968558537-21ca3db72a99?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 [![이미지 설명](https://cdn.pixabay.com/photo/2021/02/08/19/55/cocker-5996316_1280.jpg)](https://naver.com)
 
